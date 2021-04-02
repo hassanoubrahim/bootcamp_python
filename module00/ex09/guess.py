@@ -31,4 +31,4 @@ if counter == 1:
 elif counter > 1:
 	print("you won with in ",counter,"attemps")
 else:
-	print("have a good time")
+	print("bye")
